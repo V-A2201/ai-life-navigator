@@ -1,22 +1,37 @@
 # AI Life Navigator
 
-AI Life Navigator is a premium personal development engine that helps users improve their lives through personalized daily plans, habit tracking, mood and stress logging, goal management, and AI-powered insights.
+AI Life Navigator is a premium personal development engine built with MeDo.  
+It helps users improve their lives through personalized daily plans, habit tracking, mood and stress logging, goal management, and AI‑powered insights.
 
-## Live App
-https://app-bkrgkf18191d.appmedo.com
+## 🚀 Live App
+https://app-bkrqkf18191d.appmedo.com
 
-## Built With
-- MeDo (fullstack conversational app builder)
-- MeDo Workflow Engine
-- MeDo Database
-- AI Coach (context-aware assistant)
-- JSON-based data structures
-- Auto-generated CRUD actions
+## 🧠 What It Does
+- Generates personalized daily plans
+- Tracks habits and streaks
+- Logs mood and stress patterns
+- Analyzes weekly progress
+- Detects global behavioral patterns
+- Provides AI‑powered coaching and motivation
 
-## Features
-- Personalized daily plan generation
-- Habit creation and tracking
-- Mood and stress logging
-- Weekly summaries and insights
-- Global pattern analysis
-- AI Coach that explains your progress and suggests next steps
+## 🛠 Built With
+- **MeDo** (fullstack conversational app builder)
+- **MeDo Workflow Engine**
+- **MeDo Database**
+- **AI Coach** (context‑aware assistant)
+- JSON‑based data structures
+- Auto‑generated CRUD actions
+
+## 📂 Documentation
+See the `/docs` folder for:
+- Architecture
+- Data model
+- Workflows
+- Feature breakdown
+- System overview
+
+## 🏆 Hackathon Submission
+See `/devpost/submission.md`
+
+## 📸 Screenshots
+See `/media/`
